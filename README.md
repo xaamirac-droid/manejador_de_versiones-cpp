@@ -33,12 +33,14 @@ g++ lab_final_EDA-Xaamira.cpp -o control-versiones
 3. Ejecutá:
 ./control-versiones
 
-## Contexto
-
-Proyecto desarrollado en 2025 para el curso de Estructuras de Datos y Algoritmos — Tecnólogo en Informática, UTEC.
-
 ## Posibles mejoras
 
 - Reemplazar los arreglos de tamaño fijo (`niveles[10]`, `lineas[100]`, `cambios[200]`) por estructuras dinámicas (`std::vector`) para eliminar los límites máximos.
 - Separar la lógica de negocio de la interfaz de consola (actualmente todo vive en `main`).
 - Agregar manejo de excepciones en lugar de códigos de retorno (`TipoRet`) para el control de errores.
+  
+## Contexto
+
+Proyecto desarrollado en 2025 para el curso de Estructuras de Datos y Algoritmos — Tecnólogo en Informática, UTEC.
+
+
