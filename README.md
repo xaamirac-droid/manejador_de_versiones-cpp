@@ -28,10 +28,10 @@ El programa permite:
 1. Cloná o descargá el repositorio.
   
 2. Compilá con g++ (o el compilador de C++ que tengas):
-g++ lab_final_EDA-Xaamira.cpp -o control-versiones
+g++ lab_final_EDA-Xaamira.cpp -o manejador_de_versiones
 
 3. Ejecutá:
-./control-versiones
+./manejador_de_versiones
 
 ## Posibles mejoras
 
